@@ -76,5 +76,47 @@ nav{
     border-radius: 8px;
 }
 
+#about {
+    padding: 100px 0px;
+}
 
+.about-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
+.about-left-col{
+    flex-basis: 50%;
+    max-width: 400px;
+    margin: auto;
+}
+
+.about-left-col h1{
+    font-size: 50px;
+}
+
+.about-left-col p{
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px 0px;
+}
+
+.about-right-col{
+    flex-basis: 50%;
+    text-align: center;
+}
+
+.about-right-col img{
+    width: 80%;
+}
+
+.c-btn{
+    padding: 10px;
+    margin: 10px 0px;
+    color: white;
+    border: none;
+    background-color: #74b9ff;
+    border-radius: 8px;
+}

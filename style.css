@@ -202,3 +202,61 @@ nav{
     padding: 10px;
     margin-top: 20px; 
 }
+
+.members{
+    padding: 100px;
+    background: url(img/imgg/dumble.png);
+    background-repeat: no-repeat;
+    background-size: 35% 35%;
+    background-position: top right;
+}
+
+.member-card {
+    text-align: center;
+    padding-top: 50px;
+    width: 50%;
+    margin: auto;
+}
+
+.member-card p{
+    margin: 20px 0px;
+}
+
+.member-card h2{
+    margin: 20px 0px;
+}
+
+#work{
+    padding-top: 50px;
+    padding-bottom: 200px;
+    background: rgba(0,0,0,0.03);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 80% 80%, 0% 100%);  
+}
+
+.work-box{
+    box-shadow: 2px 3px 5px gray;
+}
+
+.work-box img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
